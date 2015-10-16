@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Modern Mythology]]></title>
+        <description><![CDATA[Modern Mythology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 16 Oct 2015 17:53:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heirs of Empire]]></title>
+            <description><![CDATA[<article><h1>Heirs of Empire</h1><p>Heirs of Empire Cover Art</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f969d9bf-813d-4acf-9009-0ae98a981f79.jpg"></article>]]></description>
+            <link>undefined559df697-5bf9-48fa-b15e-dbd90da419d5/index.html</link>
+            <guid isPermaLink="false">559df697-5bf9-48fa-b15e-dbd90da419d5</guid>
+            <pubDate>Fri, 16 Oct 2015 17:53:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
