@@ -1,7 +1,7 @@
 name: Modern Mythology
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.98634
+typography_spectrum: 0.49265
 title: "Evan Currie's Corner of the Net"
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#49bedf'
     - '#195e6d'
     - '#fefdfe'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.75
