@@ -1,6 +1,6 @@
 name: Modern Mythology
 favicon: null
-layout_spectrum: 0.9721760340034962
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -23,4 +23,3 @@ purpose:
   - name: shares
     item: null
     url: null
-typography_spectrum: 0.7188072204589844
